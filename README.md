@@ -3,7 +3,7 @@
 
 Skillcrush git practice: branching a shared repo.
 
-Cloned a remote repo from Github and created a topic branch for a new About Me page.
+Cloned a remote repo and created a topic branch for a new About Me page.
 
 Created a new link on homepage and pushed topic branch to the remote repo.
 
